@@ -50,7 +50,7 @@ class Password:
     def _generate_password(self):
         """Generates the password according to the strength and length specified at initializtion
 
-        :return: the randomly generate password
+        :return: the randomly generated password
         :rtype: str
         """
         
