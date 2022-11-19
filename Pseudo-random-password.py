@@ -1,3 +1,4 @@
+from copy import copy
 from random import choices
 from string import ascii_letters
 from string import punctuation
@@ -54,7 +55,7 @@ class Password:
         :rtype: str
         """
         
-        population = self.INPUT_UNIVERSE["letters"]
+        population = copy(self.INPUT_UNIVERSE["letters"])
         length = self.length or self.DEFAULT_LENGTHS.get(self.strength)
 
         if self.strength == "high":
