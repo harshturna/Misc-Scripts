@@ -8,7 +8,7 @@ class Password:
     
     Encapsulate a randomble generated password depending on the user-specified strength and length, where the latter is optional
     and automatically set depending on the strength (low -> 8, mid -> 12, high -> 16). 
-    If a length is user-specified these presents are overridden regardless of the strength.
+    If a length is user-specified these presets are overridden regardless of the strength.
     
     :param strength: a measure of the password's effectivess against brute-force guessing
     :type strength: str, optional
