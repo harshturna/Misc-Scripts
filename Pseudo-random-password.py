@@ -40,7 +40,7 @@ class Password:
         
         return cls.INPUT_UNIVERSE
     
-    def __init__(self, strength="mid", length=12):
+    def __init__(self, strength="mid", length=None):
         """Constructor method"""
 
         self.strength = strength
