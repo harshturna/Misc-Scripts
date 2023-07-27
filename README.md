@@ -1,2 +1,2 @@
-# Python Scripts and Modules
+# Miscellaneous Scripts and Modules
 Repo of Helper Modules, Automation Scripts, etc
