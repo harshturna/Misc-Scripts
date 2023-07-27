@@ -1,2 +1,2 @@
-# Miscellaneous Scripts and Modules
-Repo of Helper Modules, Automation Scripts, etc
+# Miscellaneous Scripts, Modules...
+Repo of Modules, Automation Scripts, Gists, Functions, etc
