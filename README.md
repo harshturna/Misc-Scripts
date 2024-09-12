@@ -1,2 +1,1 @@
-# Miscellaneous Scripts, Modules...
-Repo of misc modules, scripts etc
+Repo containing random code snippets, scripts etc
